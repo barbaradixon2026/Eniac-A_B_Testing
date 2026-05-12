@@ -39,4 +39,4 @@ Seek input from subject-matter experts.
 Redesign the experiment and conduct it once more.
 
 ## Key Learning
-Through this project, i developed the ability to use A/B testing can lead to an **evidence based decision making.**
+Through this project, i developed the ability to use A/B testing for an **evidence based decision making.**
