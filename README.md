@@ -1,10 +1,10 @@
 ## Eniac-A_B_Testing
 
 ## Overview
-This Project was completed during my Data Analytics training at WBS Coding School. The project demonstrates foundational and intermediate A/B testing sills. It involved performing a chi-square test with data from Eniac to determine which variant of the button has the most clicks
+This Project was completed during my Data Analytics training at WBS Coding School. The project demonstrates foundational and intermediate A/B testing sills. It involved performing a chi-square test with data from Eniac to determine which variant of the button has the most clicks.
 
 ## Objective
-The goal of this is to showcase how A/B testing leads to evidence-based decision making rather than relying on 'gut feelings.'
+The goal of this is to showcase how A/B testing leads to evidence-based decision making rather than relying on "gut feelings."
 
 ## Tools
 - Python
@@ -20,8 +20,8 @@ Based on the feedback and reviewing some successful colour choices from previous
 
 It was decided that for a version to be considered superior, there must be **statistical significance** in the click-through rate. The hypotheses to be tested in the experiment are the following:
 
-**Null Hypothesis:** all versions have the same CTR.
-**Alternative Hypothesis:** there is a difference in the CTR for the different versions.
+- **Null Hypothesis:** all versions have the same CTR.
+- **Alternative Hypothesis:** there is a difference in the CTR for the different versions.
 
 ## Analysis Areas
 - **Chi-squared test:** Tested if the differences in click-through rate for the different variants is statistically significant.
